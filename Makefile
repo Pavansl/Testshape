@@ -4,7 +4,6 @@ test_geo.c\
 main.c
 
 INC = -Iunity\
--Iinc\
 -Itest
 
 PROJECT_NAME = FUNCTION.out
