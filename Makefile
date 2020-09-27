@@ -1,6 +1,6 @@
-SRC = unity/unity.c\
-src/function.c\
-test/test_geo.c\
+SRC = unity.c\
+function.c\
+test_geo.c\
 main.c
 
 INC = -Iunity\
